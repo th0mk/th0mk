@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💼 I’m currently working at [VI Company](https://www.vicompany.nl/) as a backend developer specialized in .NET
+- 🎶 In my spare time I mostly contribute to [.fmbot](https://github.com/fmbot-discord/fmbot), an open source last.fm Discord bot.
+
+
 <!--
 **th0mk/th0mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
