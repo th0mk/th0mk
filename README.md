@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 I’m currently working at [VI Company](https://www.vicompany.nl/) as a backend developer specialized in .NET
+- 💼 I’m currently working at VI Company as a backend developer specialized in .NET
 - 🎶 In my spare time I mostly contribute to [.fmbot](https://github.com/fmbot-discord/fmbot), an open source last.fm Discord bot.
 
 
